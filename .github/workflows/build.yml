@@ -26,3 +26,8 @@ jobs:
           restore-keys: ${{ runner.os }}-m2
       - name: Build
         run: mvn -B verify
+      - name: Publish Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: my-build-artifacts
+          path: target/*.jar  # Adjust this path to match the location of your build artifacts

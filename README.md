@@ -6,13 +6,6 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/playpro/coreprotect/badge)](https://www.codefactor.io/repository/github/playpro/coreprotect)
 [![Join us on Discord](https://img.shields.io/discord/348680641560313868.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/b4DZ4jy)
 
-CoreProtect
-===========
-
-CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.
-
-For a detailed description of the plugin, please visit [coreprotect.net](https://coreprotect.net).
-
 | Quick Links |  |
 | --- | --- |
 | CoreProtect Discord: | [discord.gg/b4DZ4jy](https://discord.gg/b4DZ4jy) |
